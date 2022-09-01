@@ -64,7 +64,7 @@ main, ul {
     font-family: 'Ubuntu', sans-serif;
 }
 
-article, ul {
+article, .myBucket{
     background-color: #FFFFFF;
     box-shadow: 0px 0px 10px gray;
     padding: 10px;
